@@ -4,6 +4,13 @@ title: Time for an Upgrade
 author: Brian VanLoo
 post_status: draft
 featured_image: _images/upgrades.jpg
+taxonomy:
+    category:
+        - software
+        - resources
+    post_tag:
+        - Vue
+        - Pinia
 
 ---
 
@@ -21,9 +28,9 @@ In the case of what we're currently doing, we've chosen a 3B+ since it offers bo
 The power draw is critical as this is meant to be a wireless controller so we also wanted to maximize battery life.
 
 The initial user interface is provided by a touch screen which is connected to the Pi via a DSI cable.
-We're using a [4.3" class screen](https://www.amazon.com/dp/B09J3Y1RRT) that the Pi board itself is bolted onto.
+We're using a [4.3" class screen](https://amzn.to/3UcMQC3) that the Pi board itself is bolted onto.
 
-For power we've opted for a [UPS had](https://www.amazon.com/dp/B08BRPLY15) that is also bolted on, creating a robust stack of hardware.
+For power we've opted for a [UPS had](https://amzn.to/4aJW9Pe) that is also bolted on, creating a robust stack of hardware.
 
 ## The software stack
 
