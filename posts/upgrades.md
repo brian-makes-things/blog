@@ -14,8 +14,6 @@ taxonomy:
 
 ---
 
-# Time for an Upgrade
-
 Previously I'd done some development to build a cinema camera controller powered by a Raspberry Pi.
 It provided a wireless controller that gave access to most of the camera's settings.
 I'd last worked on it with a colleague about two years ago and while dusting the project off it became apparent that we'd need to upgrade the technology stack so that we can run it with current OS versions.
