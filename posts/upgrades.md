@@ -30,7 +30,7 @@ The power draw is critical as this is meant to be a wireless controller so we al
 The initial user interface is provided by a touch screen which is connected to the Pi via a DSI cable.
 We're using a [4.3" class screen](https://amzn.to/3UcMQC3) that the Pi board itself is bolted onto.
 
-For power we've opted for a [UPS had](https://amzn.to/4aJW9Pe) that is also bolted on, creating a robust stack of hardware.
+For power we've opted for a [UPS hat](https://amzn.to/4aJW9Pe) that is also bolted on, creating a robust stack of hardware.
 
 ## The software stack
 
