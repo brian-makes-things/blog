@@ -1,1 +1,1 @@
-# Blog articles for the [brianmakesthings.com] website
+# Blog articles for the brianmakesthings.com website
