@@ -3,7 +3,6 @@
 title: Time for an Upgrade
 author: Brian VanLoo
 post_status: publish
-comment_status: closed
 stick_post: no
 featured_image: _images/upgrades.jpg
 taxonomy:
