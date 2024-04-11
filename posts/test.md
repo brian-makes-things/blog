@@ -1,6 +1,6 @@
 ---
 
-title: Time for an Upgrade
+title: Time for an Upgrade 4
 author: Brian VanLoo
 post_status: pending
 featured_image: _images/upgrades.jpg
