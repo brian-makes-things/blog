@@ -2,12 +2,14 @@
 
 title: Time for an Upgrade
 author: Brian VanLoo
-post_status: draft
+post_status: publish
+post_excerpt: Dusting off our Raspberry Pi cinema camera controller revealed the need for a tech stack overhaul. Node version conflicts and outdated dependencies halted development. Transitioning to Vue 3 and Pinia for state management was crucial. Now, with upgraded software, it's time to integrate changes and ensure compatibility.
+comment_status: closed
+stick_post: no
 featured_image: _images/upgrades.jpg
 taxonomy:
     category:
         - software
-        - resources
     post_tag:
         - Vue
         - Pinia
