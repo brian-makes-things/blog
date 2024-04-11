@@ -2,7 +2,7 @@
 
 title: Time for an Upgrade
 author: Brian VanLoo
-post_status: pending review
+post_status: pending
 featured_image: _images/upgrades.jpg
 taxonomy:
     category:
