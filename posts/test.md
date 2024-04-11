@@ -9,8 +9,8 @@ taxonomy:
         - software
         - resources
     post_tag:
-        - Vue
-        - Pinia
+        - 123
+        - 456
 
 ---
 
